@@ -37,9 +37,9 @@
         }
       ],
       "images": [
-        "\\img\\sharbat\\khus1.png?w=400&h=400&fit=crop",
-        "\\img\\sharbat\\khus2.png?w=400&h=400&fit=crop",
-        "\\img\\sharbat\\khus3.png?w=400&h=400&fit=crop"
+        "img/khus1.png?w=400&h=400&fit=crop",
+        "img/khus2.png?w=400&h=400&fit=crop",
+        "img/khus3.png?w=400&h=400&fit=crop"
       ]
     },
     {
