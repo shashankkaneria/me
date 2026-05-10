@@ -16,9 +16,9 @@
         }
       ],
       "images": [
-        "\\img\\sharbat\\rose1.png?w=400&h=400&fit=crop",
-        "\\img\\sharbat\\rose2.png?w=400&h=400&fit=crop",
-        "\\img\\sharbat\\rose3.png?w=400&h=400&fit=crop"
+        "img/sharbat/rose1.png?w=400&h=400&fit=crop",
+        "img/sharbat/rose2.png?w=400&h=400&fit=crop",
+        "img/sharbat/rose3.png?w=400&h=400&fit=crop"
       ]
     },
     {
